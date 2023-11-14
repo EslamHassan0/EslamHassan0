@@ -2,8 +2,8 @@
 <h3 align="center">Hi, I'm Eslam Hassan,Full Stack Developer🚀 From Egypt</h3>
 
 - 🔭 I’m currently working on **Bulding**
-
 - 📫 How to reach me **hassaneslam613@gmail.com**
+- 💬 Ask me about **C#, .NET, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
