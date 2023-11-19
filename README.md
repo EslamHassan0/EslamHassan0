@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eslam Hassan</h1>
 <h3 align="center">Hi, I'm Eslam Hassan,Full Stack Developer🚀 From Egypt</h3>
 
+
+## 🚀 About Me
+<h4>I'm a .Net Developer (Junior)
+with a strong willingness to learn and gain more experience in the field of technology.
+</h4>
+
 - 🔭 I’m currently working on **Bulding**
+- 🌱 I’m currently learning .Net Core MVC, EF Core
 - 📫 How to reach me **hassaneslam613@gmail.com**
 - 💬 Ask me about **C#, .NET, SQL**
 
