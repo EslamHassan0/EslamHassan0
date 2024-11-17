@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-<h4>I'm a .Net Developer (Junior)
+<h4>I'm a .Net Developer
 with a strong willingness to learn and gain more experience in the field of technology.
 </h4>
 
