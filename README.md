@@ -7,7 +7,7 @@
 with a strong willingness to learn and gain more experience in the field of technology.
 </h4>
 
-- 🔭 I’m currently working on **Bulding**
+- 🔭 I’m currently working on **ERP Systems**
 - 🌱 I’m currently learning .Net Core MVC, EF Core
 - 📫 How to reach me **hassaneslam613@gmail.com**
 - 💬 Ask me about **C#, .NET, SQL**
